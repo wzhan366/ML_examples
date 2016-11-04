@@ -2,6 +2,7 @@
 ================================
 SVM Exercise
 ================================
+http://scikit-learn.org/stable/auto_examples/exercises/plot_iris_exercise.html#sphx-glr-auto-examples-exercises-plot-iris-exercise-py
 My idea:
 
 Highlight:
