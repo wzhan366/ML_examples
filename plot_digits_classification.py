@@ -1,19 +1,4 @@
-"""
-================================
-Recognizing hand-written digits
-================================
 
-An example showing how the scikit-learn can be used to recognize images of
-hand-written digits.
-
-This example is commented in the
-:ref:`tutorial section of the user manual <introduction>`.
-
-"""
-# print __doc__ 
-
-# Author: Gael Varoquaux <gael dot varoquaux at normalesup dot org>
-# License: BSD 3 clause
 
 '''My ideas of this example
 1. this one didn't use cross validation method
